@@ -1,19 +1,31 @@
-# Daniella Marie Clinic & Academy
+# Daniella Marie — Grow website
 
-Initial review website based on Daniella's completed questionnaire. Dependency-free static generation; compatible with Vercel.
+£300 Grow build for Daniella Marie Beauty & Aesthetics Clinic and Academy. Fourteen static pages: home, academy, six dedicated course pages, treatment explorer, gallery/review, about, visit, contact and privacy. Deployed via Vercel Git integration.
 
 ## Run
-- `npm run build` generates `dist/`.
-- `npm test` verifies routes/anchors, course prices and entry requirements, privacy and honest enquiry handling.
-- Serve `dist/` with any static server.
+- `npm run build`
+- `npm test`
+- Serve `dist/` using any static HTTP server.
 
-## Direction
-Warm cream, earthy brown and editorial typography. Academy-first homepage; dedicated academy, treatments, about, contact and privacy pages. Real Fresha booking link. No invented testimonials, stock portraits, award badges or client results. A typographic monogram is temporary brand treatment, not the final supplied logo.
+Dependency-free generator; production needs no database or secrets.
 
-## Training enquiries
-Contact email and phone have not been supplied. The form currently prepares a message locally, offers copy, then opens Instagram. It explicitly does not submit/store anything. Replace with a real delivery service after the recipient is supplied and verify delivery before launch. WhatsApp must wait for the confirmed number.
+## Reference standards
+Mane London: browsable catalogue, guided enquiry, context passed forward, practical arrival information.
+Tailored Tools: proof presented in context, useful choices before contact.
+See `docs/design-standards.md`.
 
-## Review status
-Search engines are blocked by page noindex and robots.txt. This does not make a preview private. Keep preview protected and remove indexing restrictions only after approval and final domain setup.
+## Functional journeys
+- Course finder filters by existing experience.
+- Accessible course comparison and dedicated detail pages preserve kit prices and prerequisites.
+- Course links prefill enquiry with course and kit choice; live price updates.
+- Treatment search/category filters and removable shortlist.
+- Shortlist passes treatment IDs into contact; no personal details in URL.
+- Client-side enquiry drafts a message; copy then send via Instagram. Does not claim delivery.
+- Gallery uses an accessible native dialog with Escape and focus restoration.
+- Responsive navigation and reduced-motion support.
 
-See `docs/launch-checklist.md` for remaining content and delivery requirements.
+## Assets / launch
+Real clinic/treatment photos were downloaded from Daniella's public Fresha venue and are served locally; they are not stock. Source notes are in `docs/asset-sources.md`.
+The supplied 211MB brand concept PDF could not be completely materialized; do not claim its final logo was applied. Current header is plain typeset business-name text until exact chosen logo is available.
+All pages remain noindex. Full home address is never included.
+Direct form delivery and WhatsApp wait for a confirmed recipient email/number. See launch checklist.
