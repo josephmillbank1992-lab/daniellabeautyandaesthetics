@@ -18,8 +18,7 @@
 - Course durations, named accreditation body and course-by-course verification.
 - Training deposit, instalment, cancellation, refund, assessment and certification terms.
 - Confirm arrangements for models, prerequisites, joining information and junior sessions.
-- Verify awards against documentation. Questionnaire references 2027 finalist/judging activity despite October 2026 date. Do not present these as completed achievements.
-- Verify the 2026 Lash Specialist of the Year title before adding a badge.
+- Joe confirmed the questionnaire’s 2027 award/judging references mean 2026. About page now includes Lash Specialist of the Year at The Female Boss Awards (2026), award finalist recognition (2025 and 2026), and Russian lash judging (2026). Supporting award photos can be added when supplied.
 
 ## Before public launch
 - Replace the honest copy-to-Instagram enquiry interim flow with a verified receiving inbox/form service if a direct form remains required.
