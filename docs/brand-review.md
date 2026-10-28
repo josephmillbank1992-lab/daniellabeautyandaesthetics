@@ -25,3 +25,10 @@ Reviewed all relevant text in Daniella's completed questionnaire and rendered th
 - Academy/clinic tabs and Learn/Practise/Progress pathway support Arrow/Home/End keys.
 - Work gallery uses a scroll-snap rail, arrow controls and existing accessible lightbox.
 - No scrolljacking, custom cursor or auto-playing sound.
+
+## Verification
+- Rendered and inspected supplied logo/mark extracts and concept mockups.
+- Desktop preview reviewed, then opening spacing tightened to keep the primary action earlier.
+- 390px mobile opening, navigation and pathway reviewed.
+- Academy/clinic tabs, automatic image rotation, shared pause controls and pathway keyboard Right Arrow tested in browser.
+- Original higher-resolution Fresha photos replace the compressed gallery thumbnails.

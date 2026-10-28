@@ -18,7 +18,7 @@ Fourteen pages, experience-based course finder, comparison, dedicated course det
 - Named accreditation body, course-specific durations, assessment and certification terms.
 - Deposit/instalment, cancellation/refund terms, model arrangements and junior joining details.
 - Final contact/privacy information and domain.
-- Browser/mobile visual and interaction QA. Browser controller failed in this session; automated checks do not replace this.
+- Desktop and 390px mobile review completed for the editorial homepage. Tested academy/clinic tabs, image rotation, shared pause, mobile navigation and keyboard pathway. Final client-supplied image/brand review remains.
 - Remove noindex/robots restrictions only after final approval and domain setup.
 
 No fabricated student outcomes, testimonials, photos or aggregate review counts.
