@@ -1,0 +1,8 @@
+const toggle=document.querySelector('.menu-toggle');const nav=document.querySelector('#navigation');
+toggle?.addEventListener('click',()=>{const open=toggle.getAttribute('aria-expanded')!=='true';toggle.setAttribute('aria-expanded',String(open));nav.classList.toggle('open',open);toggle.textContent=open?'Close':'Menu';});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&nav?.classList.contains('open')){toggle.click();toggle.focus();}});
+const form=document.querySelector('#training-form');
+const chosen=new URLSearchParams(location.search).get('course');
+if(chosen&&form){const select=form.elements.course;if([...select.options].some(o=>o.value===chosen))select.value=chosen;}
+form?.addEventListener('submit',e=>{e.preventDefault();if(!form.reportValidity())return;const data=new FormData(form);const message=['Hi Daniella, I’m interested in your training.','Name: '+data.get('name'),'Contact: '+data.get('contact'),'Course: '+data.get('course'),'Experience: '+data.get('experience'),'Payment plan: '+data.get('plan'),'Message: '+data.get('message')].join('\n');document.querySelector('#enquiry-message').value=message;const result=document.querySelector('#enquiry-result');result.hidden=false;document.querySelector('#enquiry-message').focus();});
+document.querySelector('#copy-message')?.addEventListener('click',async()=>{const field=document.querySelector('#enquiry-message');try{await navigator.clipboard.writeText(field.value);document.querySelector('#copy-status').textContent='Copied. Open Instagram and paste your message to Daniella.';}catch{field.focus();field.select();document.querySelector('#copy-status').textContent='Select and copy the message above, then paste it into Instagram.';}});
