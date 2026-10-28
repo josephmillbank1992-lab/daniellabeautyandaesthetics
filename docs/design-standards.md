@@ -25,3 +25,9 @@ Confirmed 28 October 2026: client paid £300 for Grow, not Launch.
 - Junior introduction is not an accredited qualification.
 - 2027 award/judging references corrected to 2026 per Joe.
 - Honest interim contact: user copies the message and sends through Instagram, until a receiving email or WhatsApp number is supplied.
+
+## Daniella visual direction
+- Editorial, academy-led story with layered imagery and her own supportive teaching voice.
+- Avoid another symmetric cream hero and repeated static two-column sections.
+- Motion must support the story and be pausable; honour reduced-motion preference.
+- Source exact branding from the attached presentation, with concept choice documented.

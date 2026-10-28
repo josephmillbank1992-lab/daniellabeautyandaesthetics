@@ -11,7 +11,7 @@ Fourteen pages, experience-based course finder, comparison, dedicated course det
 - Award/judging dates corrected to 2026 per Joe.
 
 ## Needed before public launch
-- Exact approved logo asset / concept choice from the supplied branding presentation. The 211MB PDF did not finish downloading; typeset business name is provisional.
+- Confirm final brand concept choice. The full presentation has now been rendered and reviewed. This version uses the exact wordmark and monogram from concept one.
 - Original permissioned photos, portrait, student work/reviews and award images when supplied. Current clinic/work images come from Daniella's own public Fresha venue, downloaded and served locally.
 - Receiving email and WhatsApp number. Current contact flow openly prepares a message for the visitor to copy and send on Instagram; it does not claim to send an enquiry.
 - Final treatment prices and descriptions; Fresha remains the live menu and booking route.

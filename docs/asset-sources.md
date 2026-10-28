@@ -15,4 +15,4 @@ Client review: Maddie H, current venue review. Short excerpt links to full origi
 
 Brand presentation:
 DaniellaMarie Beauty-BrandDesignPresentation01.pdf, Library ID libfile_26e90ec586cc81918a16fcd70c9688c7.
-32 pages, 211MB, multiple concepts. Text/pages inspected through Library; local materialization did not complete. Final logo selection/assets remain outstanding. Do not recreate a logo from memory or claim a concept is approved.
+32 pages, 211MB, multiple concepts. Full PDF materialized with Library identity persisted as real NTFS extended attributes, and rendered with Poppler. Concept-one wordmark and mark extracted from pages 6 and 12. This is a review direction; final concept selection is not assumed.

@@ -26,6 +26,6 @@ See `docs/design-standards.md`.
 
 ## Assets / launch
 Real clinic/treatment photos were downloaded from Daniella's public Fresha venue and are served locally; they are not stock. Source notes are in `docs/asset-sources.md`.
-The supplied 211MB brand concept PDF could not be completely materialized; do not claim its final logo was applied. Current header is plain typeset business-name text until exact chosen logo is available.
+The full brand presentation has now been materialized and rendered. Current review direction uses concept one: exact supplied wordmark and monogram extracted from pages 6 and 12. Final concept selection remains to be confirmed.
 All pages remain noindex. Full home address is never included.
 Direct form delivery and WhatsApp wait for a confirmed recipient email/number. See launch checklist.
