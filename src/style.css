@@ -24,3 +24,17 @@
 
 @media(max-width:760px){.chapter-panel h1{font-size:73px;margin:20px 0 23px}.chapter-switch{margin-bottom:25px}.chapter-footer{display:none}.chapter-visual{margin-top:25px;min-height:440px}}
 @media(max-width:370px){.chapter-panel h1{font-size:68px}}
+
+/* Keep the hero details in their own tracks, clear of imagery and captions. */
+.chapter-visual{display:grid;grid-template-columns:minmax(0,1fr) 116px;grid-template-rows:minmax(410px,1fr) auto auto;gap:14px 18px;margin-right:0;min-height:0}
+.chapter-visual .hero-slides{position:relative;inset:auto;grid-column:1/-1;grid-row:1;min-height:410px}
+.chapter-visual .hero-editorial-note{position:relative;inset:auto;grid-column:1;grid-row:2;width:auto;display:flex;align-items:center;gap:16px;padding:12px 0;transform:none!important;box-shadow:none;background:transparent;z-index:auto;border-top:1px solid #bfae97;border-bottom:1px solid #bfae97}
+.chapter-visual .hero-editorial-note p{font-size:23px;line-height:1.05}
+.chapter-visual .supplied-mark{width:46px;height:42px;margin:0;flex-shrink:0}
+.chapter-visual .hero-image-inset{position:relative;inset:auto;grid-column:2;grid-row:2;width:116px;transform:none;box-shadow:none;margin:0;border-width:4px;align-self:center;z-index:auto}
+.chapter-visual .hero-image-inset img{height:80px}
+.chapter-visual .hero-image-inset>span{font-size:5px;padding:6px 0 2px;letter-spacing:.02em}
+.chapter-visual .hero-slide-controls{position:relative;inset:auto;grid-column:1/-1;grid-row:3;min-width:0;padding:0;gap:20px}
+@media(max-width:1100px){.chapter-visual{grid-template-columns:minmax(0,1fr) 104px;gap:12px}.chapter-visual .hero-image-inset{width:104px}.chapter-visual .hero-editorial-note p{font-size:21px}.chapter-visual .hero-image-inset img{height:76px}}
+@media(max-width:760px){.chapter-visual{grid-template-columns:minmax(0,1fr) 100px;grid-template-rows:360px auto auto;margin:25px 0 18px;min-height:0;gap:12px 14px}.chapter-visual .hero-slides{min-height:0}.chapter-visual .hero-editorial-note{gap:13px;padding:10px 0}.chapter-visual .hero-editorial-note p{font-size:22px}.chapter-visual .supplied-mark{width:37px;height:35px}.chapter-visual .hero-image-inset{width:100px}.chapter-visual .hero-image-inset img{height:74px}.chapter-visual .hero-slide-controls{padding-top:1px}}
+@media(max-width:370px){.chapter-visual{grid-template-columns:minmax(0,1fr) 90px;grid-template-rows:330px auto auto;gap:11px}.chapter-visual .hero-image-inset{width:90px}.chapter-visual .hero-editorial-note p{font-size:20px}.chapter-visual .supplied-mark{width:32px}}
