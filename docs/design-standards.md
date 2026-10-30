@@ -29,5 +29,10 @@ Confirmed 28 October 2026: client paid £300 for Grow, not Launch.
 ## Daniella visual direction
 - Editorial, academy-led story with layered imagery and her own supportive teaching voice.
 - Avoid another symmetric cream hero and repeated static two-column sections.
-- Motion must support the story and be pausable; honour reduced-motion preference.
+- Motion must support the story and honour reduced-motion preference. Autoplay pauses on hover/focus and when the hero or page is inactive; do not add a visible pause-motion button.
 - Source exact branding from the attached presentation, with concept choice documented.
+
+## Readability and controls — 30 October 2026
+- Joe explicitly requested removal of visible pause-motion controls, including the header and hero buttons.
+- Preserve system reduced-motion support and automatic pause behaviour.
+- Body text: 16px; supporting text: 14px; small labels: at least 12px. Do not shrink mobile labels to 5–10px.
