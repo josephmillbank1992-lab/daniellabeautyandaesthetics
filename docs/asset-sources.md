@@ -37,3 +37,6 @@ Original filenames for all selected images are recorded in the review workspace 
 - brow-result.jpg: WhatsApp Image 2026-11-01 at 08.55.04 (6).jpeg.
 - Facial review excerpt transcribed verbatim from WhatsApp Image 2026-11-01 at 08.55.10 (2).jpeg. Reviewer name and rating were not supplied; none invented.
 - No genuine student review quotes supplied yet. Do not present founder copy or treatment reviews as student feedback.
+
+## Complete supplied gallery
+All 67 original JPEG files from Daniella Images.zip are included in assets/gallery. src/gallery.mjs records each original filename, dimensions, category and display label. Files preserve the supplied image bytes; comparison images and screenshots use contain sizing. The feedback screenshot remains client feedback, not a student review.

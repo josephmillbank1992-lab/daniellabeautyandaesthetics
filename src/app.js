@@ -1,3 +1,4 @@
+import{galleryPhotos}from'./gallery.mjs';
 import{courses,treatments,images,coursePrice,money}from'./data.mjs';
 const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
 const params=new URLSearchParams(location.search);
@@ -14,8 +15,10 @@ $('#treatment-search')?.addEventListener('input',filterTreatments);filterTreatme
 const selected=new Set((params.get('treatments')||'').split(',').filter(id=>treatments.some(t=>t.id===id)));
 function updateShortlist(){const list=$('#shortlist-items');if(list){list.replaceChildren();for(const id of selected){const treatment=treatments.find(t=>t.id===id);const item=document.createElement('li');const text=document.createElement('span');text.textContent=treatment.name;const remove=document.createElement('button');remove.type='button';remove.textContent='×';remove.setAttribute('aria-label','Remove '+treatment.name);remove.addEventListener('click',()=>{selected.delete(id);updateShortlist();});item.append(text,remove);list.append(item);}$('#shortlist-empty').hidden=selected.size>0;$('#shortlist-enquire').href='/contact/?intent=treatment&treatments='+encodeURIComponent([...selected].join(','))+'#enquiry';}$$('[data-shortlist]').forEach(b=>{const active=selected.has(b.dataset.shortlist);b.setAttribute('aria-pressed',String(active));b.textContent=active?'✓ Added to my enquiry':'+ Add to my enquiry';});}
 $$('[data-shortlist]').forEach(b=>b.addEventListener('click',()=>{const id=b.dataset.shortlist;selected.has(id)?selected.delete(id):selected.add(id);updateShortlist();}));updateShortlist();
+const gallerySources={...images,...Object.fromEntries(galleryPhotos.map(p=>[p.id,p.src]))};
 const dialog=$('#gallery-dialog');let galleryTrigger;
-$$('[data-gallery]').forEach(b=>b.addEventListener('click',()=>{galleryTrigger=b;$('#gallery-full').src=images[b.dataset.gallery];$('#gallery-full').alt=b.dataset.galleryLabel;$('#gallery-caption').textContent=b.dataset.galleryLabel;dialog.showModal();}));
+$$('[data-gallery-filter]').forEach(button=>button.addEventListener('click',()=>{const category=button.dataset.galleryFilter;let count=0;$$('[data-gallery-filter]').forEach(b=>{const active=b===button;b.classList.toggle('active',active);b.setAttribute('aria-pressed',String(active));});$$('[data-gallery-category]').forEach(item=>{item.hidden=category!=='all'&&item.dataset.galleryCategory!==category;if(!item.hidden)count++;});$('#gallery-count').textContent=count+' photo'+(count===1?'':'s')+' to explore';}));
+$$('[data-gallery]').forEach(b=>b.addEventListener('click',()=>{galleryTrigger=b;$('#gallery-full').src=gallerySources[b.dataset.gallery];$('#gallery-full').alt=b.dataset.galleryLabel;$('#gallery-caption').textContent=b.dataset.galleryLabel;dialog.showModal();}));
 $('.dialog-close')?.addEventListener('click',()=>dialog.close());dialog?.addEventListener('click',e=>{if(e.target===dialog){const rect=dialog.getBoundingClientRect();if(e.clientX<rect.left||e.clientX>rect.right||e.clientY<rect.top||e.clientY>rect.bottom)dialog.close();}});dialog?.addEventListener('close',()=>galleryTrigger?.focus());
 const form=$('#enquiry');
 if(form){const courseSelect=form.elements.course,optionSelect=form.elements.option;
