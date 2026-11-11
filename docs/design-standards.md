@@ -1,6 +1,6 @@
-# Website Mill standards - Daniella Grow
+# Website Mill standards — Daniella Grow
 
-Confirmed 28 October 2026: client paid �300 for Grow, not Launch.
+Confirmed 28 October 2026: client paid £300 for Grow, not Launch.
 
 ## Approved reference foundations
 - Mane London: useful catalogue, tailored options, shortlist, guided enquiry, selections carried into contact and practical visit details.
@@ -19,7 +19,7 @@ Confirmed 28 October 2026: client paid �300 for Grow, not Launch.
 ## Daniella specifics
 - Primary conversion: academy enquiries. Secondary: skin/aesthetics bookings.
 - Dedicated course pages, comparison and experience filter.
-- �775 combined kit-inclusive pathway highlighted; �595 training-only preserved.
+- £775 combined kit-inclusive pathway highlighted; £595 training-only preserved.
 - Clinic stays private: Derby only, never the full home address.
 - Booking remains on Fresha. Training remains enquiry-first.
 - Junior introduction is not an accredited qualification.
@@ -32,7 +32,7 @@ Confirmed 28 October 2026: client paid �300 for Grow, not Launch.
 - Motion must support the story and be pausable; honour reduced-motion preference.
 - Source exact branding from the attached presentation, with concept choice documented.
 
-## Client review - 11 November 2026
+## Client review — 11 November 2026
 - Russian lash judging is 2027. The winner and finalist awards retain their supplied 2026 dates.
 - Mum of four and nursing studies belong only on About Daniella, never homepage badges or credentials.
 - Use award-winning founder and educator credentials elsewhere.

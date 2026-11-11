@@ -17,7 +17,7 @@ Brand presentation:
 DaniellaMarie Beauty-BrandDesignPresentation01.pdf, Library ID libfile_26e90ec586cc81918a16fcd70c9688c7.
 32 pages, 211MB, multiple concepts. Full PDF materialized with Library identity persisted as real NTFS extended attributes, and rendered with Poppler. Concept-one wordmark and mark extracted from pages 6 and 12. This is a review direction; final concept selection is not assumed.
 
-## Daniella Images.zip - supplied 11 November 2026
+## Daniella Images.zip — supplied 11 November 2026
 Client-supplied Library file libfile_6b894bf453808191a126fd3615c798b8. Contact sheet reviewed in full (67 images). Exported at maximum 1000px, without compositing or altering treatment outcomes.
 - daniella-portrait.jpg: WhatsApp Image 2026-11-01 at 08.55.02 (2).jpeg (contact sheet 22).
 - lash-training.jpg: WhatsApp Image 2026-11-01 at 08.55.04 (5).jpeg (contact sheet 38), practical lash application.
