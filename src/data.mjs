@@ -1,6 +1,16 @@
 export const booking='https://www.fresha.com/a/daniella-marie-beauty-and-aesthetics-derby-mackworth-fu4y99ku';
 export const instagram='https://www.instagram.com/daniellabeautyandaesthetics25/';
 export const images={
+practice:'/assets/academy-practice.jpg',
+guidance:'/assets/academy-guidance.jpg',
+studentOne:'/assets/academy-student-one.jpg',
+studentTwo:'/assets/academy-student-two.jpg',
+interior:'/assets/clinic-interior.jpg',
+liftResult:'/assets/lash-lift-result.jpg',
+lashResult:'/assets/lash-styling-result.jpg',
+browResult:'/assets/brow-result.jpg',
+lipResult:'/assets/lip-result.jpg',
+
 founder:'/assets/daniella-portrait.jpg',
 training:'/assets/lash-training.jpg',
 award:'/assets/award-2026.jpg',

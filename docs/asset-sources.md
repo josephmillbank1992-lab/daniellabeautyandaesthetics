@@ -24,3 +24,16 @@ Client-supplied Library file libfile_6b894bf453808191a126fd3615c798b8. Contact s
 - award-2026.jpg: WhatsApp Image 2026-11-01 at 08.55.01 (2).jpeg (contact sheet 16), Female Boss Awards winner certificate.
 - lash-detail.jpg: WhatsApp Image 2026-11-01 at 08.55.04 (8).jpeg (contact sheet 41), lash result close-up.
 Original filenames for all selected images are recorded in the review workspace image-index.txt.
+
+## Additional imagery — 11 November 2026
+- academy-practice.jpg: WhatsApp Image 2026-11-01 at 08.54.33 (1).jpeg.
+- academy-guidance.jpg: WhatsApp Image 2026-11-01 at 08.54.34 (1).jpeg.
+- academy-student-one.jpg: WhatsApp Image 2026-11-01 at 08.54.34 (2).jpeg.
+- academy-student-two.jpg: WhatsApp Image 2026-11-01 at 08.54.34.jpeg.
+- lip-result.jpg: WhatsApp Image 2026-11-01 at 08.55.01 (4).jpeg.
+- clinic-interior.jpg: WhatsApp Image 2026-11-01 at 08.55.02 (5).jpeg.
+- lash-lift-result.jpg: WhatsApp Image 2026-11-01 at 08.55.02 (6).jpeg.
+- lash-styling-result.jpg: WhatsApp Image 2026-11-01 at 08.55.02 (7).jpeg.
+- brow-result.jpg: WhatsApp Image 2026-11-01 at 08.55.04 (6).jpeg.
+- Facial review excerpt transcribed verbatim from WhatsApp Image 2026-11-01 at 08.55.10 (2).jpeg. Reviewer name and rating were not supplied; none invented.
+- No genuine student review quotes supplied yet. Do not present founder copy or treatment reviews as student feedback.
