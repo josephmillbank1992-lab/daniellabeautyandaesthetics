@@ -13,7 +13,7 @@ Fourteen pages, experience-based course finder, comparison, dedicated course det
 ## Needed before public launch
 - Confirm final brand concept choice. The full presentation has now been rendered and reviewed. This version uses the exact wordmark and monogram from concept one.
 - Original permissioned photos, portrait, student work/reviews and award images when supplied. Current clinic/work images come from Daniella's own public Fresha venue, downloaded and served locally.
-- Receiving email and WhatsApp number. Current contact flow openly prepares a message for the visitor to copy and send on Instagram; it does not claim to send an enquiry.
+- Enquiry recipients supplied: WhatsApp 07932 328725 and dmbeautyaestheticsandacademy@gmail.com. Form opens completed drafts in the visitor’s chosen app; visitors must press send there.
 - Final treatment prices and descriptions; Fresha remains the live menu and booking route.
 - Named accreditation body, course-specific durations, assessment and certification terms.
 - Deposit/instalment, cancellation/refund terms, model arrangements and junior joining details.

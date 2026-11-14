@@ -24,7 +24,7 @@ Confirmed 28 October 2026: client paid £300 for Grow, not Launch.
 - Booking remains on Fresha. Training remains enquiry-first.
 - Junior introduction is not an accredited qualification.
 - 2027 award/judging references corrected to 2026 per Joe.
-- Honest interim contact: user copies the message and sends through Instagram, until a receiving email or WhatsApp number is supplied.
+- Enquiry handoff: visitors choose WhatsApp or email to open a completed draft, then press send in their chosen app. Never claim the website has delivered the enquiry.
 
 ## Daniella visual direction
 - Editorial, academy-led story with layered imagery and her own supportive teaching voice.
