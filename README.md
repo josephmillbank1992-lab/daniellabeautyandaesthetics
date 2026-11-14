@@ -20,7 +20,7 @@ See `docs/design-standards.md`.
 - Course links prefill enquiry with course and kit choice; live price updates.
 - Treatment search/category filters and removable shortlist.
 - Shortlist passes treatment IDs into contact; no personal details in URL.
-- Client-side enquiry opens a completed WhatsApp message or email draft for Daniella. Visitors review and send in their chosen app; the website does not claim delivery. Copy and reopen buttons provide a fallback.
+- Enquiries submit directly through FormSubmit AJAX to Daniella’s inbox, with pending, success and error states. WhatsApp remains an alternative. FormSubmit requires one-time recipient activation; do not consider email delivery verified until that activation and an inbox check are complete.
 - Gallery uses an accessible native dialog with Escape and focus restoration.
 - Responsive navigation and reduced-motion support.
 
