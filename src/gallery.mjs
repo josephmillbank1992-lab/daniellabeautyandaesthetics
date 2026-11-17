@@ -1,4 +1,4 @@
-export const galleryCategories=[["all", "All photos"], ["training", "Academy & training"], ["lashes", "Lashes & brows"], ["skin", "Skin & aesthetics"], ["clinic", "Daniella & the clinic"], ["awards", "Awards"], ["feedback", "Client feedback"]];
+export const galleryCategories=[["all","All photos"],["training","Academy & training"],["lashes","Lashes & brows"],["skin","Skin & aesthetics"],["clinic","Daniella & the clinic"],["awards","Awards"],["feedback","Client feedback"]];
 export const galleryPhotos=[
   {
     "id": "supplied-01",
@@ -587,12 +587,12 @@ export const galleryPhotos=[
   },
   {
     "id": "supplied-66",
-    "src": "/assets/gallery/66.jpg",
+    "src": "/assets/gallery/treatment-comparison.png",
     "category": "skin",
-    "label": "Treatment comparison screenshot shared by Daniella",
-    "width": 740,
-    "height": 1600,
-    "original": "WhatsApp Image 2026-11-01 at 08.55.16 (5).jpeg"
+    "label": "Treatment comparison shared by Daniella",
+    "width": 700,
+    "height": 708,
+    "original": "image(20261117-100634).png"
   },
   {
     "id": "supplied-67",
@@ -602,5 +602,68 @@ export const galleryPhotos=[
     "width": 1600,
     "height": 1600,
     "original": "WhatsApp Image 2026-11-01 at 08.55.16.jpeg"
+  },
+  {
+    "id": "november-1",
+    "src": "/assets/student-graduation-one.jpg",
+    "category": "training",
+    "label": "Celebrating a student’s completed lash training",
+    "width": 1200,
+    "height": 1600,
+    "original": "WhatsApp Image 2026-11-17 at 09.59.15.jpeg"
+  },
+  {
+    "id": "november-2",
+    "src": "/assets/student-graduation-two.jpg",
+    "category": "training",
+    "label": "An academy student with her certificate and flowers",
+    "width": 1200,
+    "height": 1600,
+    "original": "WhatsApp Image 2026-11-17 at 09.59.16.jpeg"
+  },
+  {
+    "id": "november-3",
+    "src": "/assets/lash-mannequin-practice.jpg",
+    "category": "training",
+    "label": "A student practising lash application on a mannequin",
+    "width": 1200,
+    "height": 1600,
+    "original": "WhatsApp Image 2026-11-17 at 09.59.16 (2).jpeg"
+  },
+  {
+    "id": "november-4",
+    "src": "/assets/lash-model-practice.jpg",
+    "category": "training",
+    "label": "Supervised lash practice with a live model",
+    "width": 1200,
+    "height": 1600,
+    "original": "WhatsApp Image 2026-11-17 at 09.59.16 (1).jpeg"
+  },
+  {
+    "id": "november-5",
+    "src": "/assets/academy-welcome-kits.jpg",
+    "category": "training",
+    "label": "Training manuals, branded welcome bags and refreshments",
+    "width": 1200,
+    "height": 1600,
+    "original": "WhatsApp Image 2026-11-17 at 09.59.16 (3).jpeg"
+  },
+  {
+    "id": "november-6",
+    "src": "/assets/lip-treatment-comparison.jpg",
+    "category": "skin",
+    "label": "Lip treatment comparison shared by Daniella",
+    "width": 1600,
+    "height": 1600,
+    "original": "WhatsApp Image 2026-11-17 at 09.59.16 (4).jpeg"
+  },
+  {
+    "id": "november-7",
+    "src": "/assets/lash-client-profile.jpg",
+    "category": "lashes",
+    "label": "Lash extensions by Daniella, viewed in profile",
+    "width": 1200,
+    "height": 1600,
+    "original": "WhatsApp Image 2026-11-17 at 09.59.16 (5).jpeg"
   }
 ];

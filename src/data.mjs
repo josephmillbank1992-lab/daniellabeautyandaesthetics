@@ -4,7 +4,7 @@ export const images={
 practice:'/assets/academy-practice.jpg',
 guidance:'/assets/academy-guidance.jpg',
 studentOne:'/assets/academy-student-one.jpg',
-studentTwo:'/assets/academy-student-two.jpg',
+studentTwo:'/assets/student-graduation-one.jpg',
 interior:'/assets/clinic-interior.jpg',
 liftResult:'/assets/lash-lift-result.jpg',
 lashResult:'/assets/lash-styling-result.jpg',
